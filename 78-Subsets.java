@@ -1,19 +1,20 @@
 class Solution {
+    List<List<Integer>> l=new ArrayList<List<Integer>>();
     public List<List<Integer>> subsets(int[] nums) {
-        List<List<Integer>> a=new ArrayList<List<Integer>>();
-        fun(0,nums,a,new ArrayList<>());
-      return a;
+        List<Integer> ds=new ArrayList<Integer>();
+        backtrack(nums,ds,0);
+        return l;
     }
-    void fun(int i,int []nums,List<List<Integer>> ans,List<Integer> lis)
+    void backtrack(int nums[],List<Integer> ds,int i)
     {
-        if(i==nums.length)
-        {
-            ans.add(new ArrayList<Integer>(lis));
-          return ;
-        }
-        lis.add(nums[i]);
-        fun(i+1,nums,ans,lis);
-        lis.remove(lis.size()-1);
-        fun(i+1,nums,ans,lis);
+      if(i==nums.length)
+      {
+     l.add(new ArrayList<Integer>(ds));
+           return ;
+      }
+      ds.add(nums[i]);
+      backtrack(nums,ds,i+1);
+      ds.remove(ds.size()-1);
+      backtrack(nums,ds,i+1);
     }
 }
