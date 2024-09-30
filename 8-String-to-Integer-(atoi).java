@@ -42,14 +42,14 @@ class Solution {
             if(sb.charAt(0)=='+' || sb.charAt(0)=='-')
             return 0;
          }
-        //  StringBuffer st=new StringBuffer();
+     
         if(!sb.isEmpty())
         {
        char c=sb.charAt(0);
-    //    System.out.println(sb+\ hhje\);
+   
        if(c=='-' && flag==1)
        return 0;
-    //    System.out.println(\hudhujde\);
+    
        if(sb.length()>1)
        {
           if(c=='-' || c=='+')
