@@ -2,7 +2,7 @@ import java.util.*;
 
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
-        // Sort the array
+
         Arrays.sort(nums);
         
         Set<List<Integer>> set = new HashSet<>();
