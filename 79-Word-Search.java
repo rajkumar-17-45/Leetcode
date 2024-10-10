@@ -27,7 +27,6 @@ class Solution {
    if(i>=m ||  j>=n || c>=l )
    return ;
    visited[i][j]=true;
-//    System.out.println(\hello bro hai\);
    if(i+1<m && !visited[i+1][j])
    {
     if(c+1<l &&  word.charAt(c+1)==board[i+1][j])
