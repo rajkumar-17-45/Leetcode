@@ -11,7 +11,6 @@ class Solution {
         int j=(int)(num.charAt(i)-'0');
         while(!stack.isEmpty() && k!=0 && j<stack.peek())
         {
-        
             stack.pop();
             k--;
             
