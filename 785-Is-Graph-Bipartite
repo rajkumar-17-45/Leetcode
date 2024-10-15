@@ -1,0 +1,53 @@
+class Pair {
+    int val1;
+    int val2;
+    public Pair(int val1, int val2) {
+        this.val1 = val1;
+        this.val2 = val2;
+    }
+}
+
+class Solution {
+    public boolean isBipartite(int[][] graph) {
+        int m = graph.length;
+        int visited[] = new int[m];
+
+        List<List<Integer>> list = new ArrayList<>();
+        for (int i = 0; i < m; i++) {
+            List<Integer> l = new ArrayList<>();
+            for (int j = 0; j < graph[i].length; j++) {
+                l.add(graph[i][j]);
+            }
+            list.add(l);
+        }
+
+        for (int i = 0; i < m; i++) {
+            if (visited[i] == 0) {
+                visited[i] = -1;
+                Queue<Integer> queue = new LinkedList<>();
+                queue.add(i);
+                if (!backtrack(queue, visited, list)) {
+                    return false;
+                }
+            }
+        }
+        return true;
+    }
+
+    boolean backtrack(Queue<Integer> queue, int[] visited, List<List<Integer>> list) {
+        while (!queue.isEmpty()) {
+            int j = queue.poll();
+            List<Integer> l = list.get(j);
+            for (int i = 0; i < l.size(); i++) {
+                int neighbor = l.get(i);
+                if (visited[neighbor] == 0) {
+                    visited[neighbor] = -visited[j];
+                    queue.add(neighbor);
+                } else if (visited[neighbor] == visited[j]) {
+                    return false;
+                }
+            }
+        }
+        return true;
+    }
+}
