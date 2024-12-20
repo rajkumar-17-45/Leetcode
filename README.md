@@ -15,4 +15,9 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/rajkumar-17-45/Leetcode/tree/master/0006-zigzag-conversion) |
+| [0014-longest-common-prefix](https://github.com/rajkumar-17-45/Leetcode/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/rajkumar-17-45/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
