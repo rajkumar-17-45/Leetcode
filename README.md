@@ -95,6 +95,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0100-same-tree](https://github.com/rajkumar-17-45/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/rajkumar-17-45/Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rajkumar-17-45/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/rajkumar-17-45/Leetcode/tree/master/0112-path-sum) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/rajkumar-17-45/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 ## Depth-First Search
 |  |
@@ -102,6 +103,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0100-same-tree](https://github.com/rajkumar-17-45/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/rajkumar-17-45/Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rajkumar-17-45/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/rajkumar-17-45/Leetcode/tree/master/0112-path-sum) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/rajkumar-17-45/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 ## Breadth-First Search
 |  |
@@ -109,6 +111,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0100-same-tree](https://github.com/rajkumar-17-45/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/rajkumar-17-45/Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rajkumar-17-45/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/rajkumar-17-45/Leetcode/tree/master/0112-path-sum) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/rajkumar-17-45/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 ## Binary Tree
 |  |
@@ -116,5 +119,6 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0100-same-tree](https://github.com/rajkumar-17-45/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/rajkumar-17-45/Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rajkumar-17-45/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/rajkumar-17-45/Leetcode/tree/master/0112-path-sum) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/rajkumar-17-45/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 <!---LeetCode Topics End-->
