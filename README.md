@@ -35,6 +35,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0124-binary-tree-maximum-path-sum](https://github.com/rajkumar-17-45/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0392-is-subsequence](https://github.com/rajkumar-17-45/Leetcode/tree/master/0392-is-subsequence) |
 | [0494-target-sum](https://github.com/rajkumar-17-45/Leetcode/tree/master/0494-target-sum) |
+| [1025-minimum-cost-for-tickets](https://github.com/rajkumar-17-45/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/rajkumar-17-45/Leetcode/tree/master/1063-best-sightseeing-pair) |
 ## Array
 |  |
@@ -42,6 +43,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rajkumar-17-45/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rajkumar-17-45/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0494-target-sum](https://github.com/rajkumar-17-45/Leetcode/tree/master/0494-target-sum) |
+| [1025-minimum-cost-for-tickets](https://github.com/rajkumar-17-45/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/rajkumar-17-45/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rajkumar-17-45/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Binary Search
