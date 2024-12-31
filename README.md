@@ -19,6 +19,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0020-valid-parentheses](https://github.com/rajkumar-17-45/Leetcode/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/rajkumar-17-45/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0392-is-subsequence](https://github.com/rajkumar-17-45/Leetcode/tree/master/0392-is-subsequence) |
+| [3502-count-substrings-with-k-frequency-characters-i](https://github.com/rajkumar-17-45/Leetcode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 ## Trie
 |  |
 | ------- |
@@ -58,6 +59,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0202-happy-number](https://github.com/rajkumar-17-45/Leetcode/tree/master/0202-happy-number) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/rajkumar-17-45/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rajkumar-17-45/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3502-count-substrings-with-k-frequency-characters-i](https://github.com/rajkumar-17-45/Leetcode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 ## Math
 |  |
 | ------- |
@@ -76,6 +78,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0076-minimum-window-substring](https://github.com/rajkumar-17-45/Leetcode/tree/master/0076-minimum-window-substring) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/rajkumar-17-45/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rajkumar-17-45/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3502-count-substrings-with-k-frequency-characters-i](https://github.com/rajkumar-17-45/Leetcode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 ## Stack
 |  |
 | ------- |
