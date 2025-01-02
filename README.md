@@ -41,6 +41,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0494-target-sum](https://github.com/rajkumar-17-45/Leetcode/tree/master/0494-target-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/rajkumar-17-45/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/rajkumar-17-45/Leetcode/tree/master/1063-best-sightseeing-pair) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rajkumar-17-45/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Array
 |  |
 | ------- |
@@ -51,6 +52,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1025-minimum-cost-for-tickets](https://github.com/rajkumar-17-45/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1046-max-consecutive-ones-iii](https://github.com/rajkumar-17-45/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1063-best-sightseeing-pair](https://github.com/rajkumar-17-45/Leetcode/tree/master/1063-best-sightseeing-pair) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rajkumar-17-45/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rajkumar-17-45/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/rajkumar-17-45/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/rajkumar-17-45/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -88,6 +90,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0076-minimum-window-substring](https://github.com/rajkumar-17-45/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/rajkumar-17-45/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1046-max-consecutive-ones-iii](https://github.com/rajkumar-17-45/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rajkumar-17-45/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/rajkumar-17-45/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rajkumar-17-45/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/rajkumar-17-45/Leetcode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
