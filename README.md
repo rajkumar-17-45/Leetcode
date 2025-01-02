@@ -46,6 +46,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rajkumar-17-45/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rajkumar-17-45/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0485-max-consecutive-ones](https://github.com/rajkumar-17-45/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/rajkumar-17-45/Leetcode/tree/master/0494-target-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/rajkumar-17-45/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1046-max-consecutive-ones-iii](https://github.com/rajkumar-17-45/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
