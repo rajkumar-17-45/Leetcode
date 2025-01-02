@@ -48,6 +48,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rajkumar-17-45/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0494-target-sum](https://github.com/rajkumar-17-45/Leetcode/tree/master/0494-target-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/rajkumar-17-45/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
+| [1046-max-consecutive-ones-iii](https://github.com/rajkumar-17-45/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1063-best-sightseeing-pair](https://github.com/rajkumar-17-45/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rajkumar-17-45/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/rajkumar-17-45/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -57,6 +58,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rajkumar-17-45/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1046-max-consecutive-ones-iii](https://github.com/rajkumar-17-45/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -84,6 +86,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0076-minimum-window-substring](https://github.com/rajkumar-17-45/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/rajkumar-17-45/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [1046-max-consecutive-ones-iii](https://github.com/rajkumar-17-45/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/rajkumar-17-45/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rajkumar-17-45/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/rajkumar-17-45/Leetcode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
@@ -163,6 +166,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Prefix Sum
 |  |
 | ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/rajkumar-17-45/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/rajkumar-17-45/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/rajkumar-17-45/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Queue
