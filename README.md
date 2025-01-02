@@ -21,6 +21,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0392-is-subsequence](https://github.com/rajkumar-17-45/Leetcode/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/rajkumar-17-45/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/rajkumar-17-45/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/rajkumar-17-45/Leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/rajkumar-17-45/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/rajkumar-17-45/Leetcode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 ## Trie
@@ -62,6 +63,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rajkumar-17-45/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1046-max-consecutive-ones-iii](https://github.com/rajkumar-17-45/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/rajkumar-17-45/Leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 ## Hash Table
 |  |
 | ------- |
@@ -91,6 +93,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0424-longest-repeating-character-replacement](https://github.com/rajkumar-17-45/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1046-max-consecutive-ones-iii](https://github.com/rajkumar-17-45/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rajkumar-17-45/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/rajkumar-17-45/Leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/rajkumar-17-45/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rajkumar-17-45/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/rajkumar-17-45/Leetcode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
@@ -172,6 +175,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/rajkumar-17-45/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/rajkumar-17-45/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/rajkumar-17-45/Leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/rajkumar-17-45/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Queue
 |  |
