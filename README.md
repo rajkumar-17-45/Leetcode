@@ -55,6 +55,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1063-best-sightseeing-pair](https://github.com/rajkumar-17-45/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rajkumar-17-45/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rajkumar-17-45/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2358-number-of-ways-to-split-array](https://github.com/rajkumar-17-45/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/rajkumar-17-45/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/rajkumar-17-45/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rajkumar-17-45/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -176,6 +177,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1046-max-consecutive-ones-iii](https://github.com/rajkumar-17-45/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/rajkumar-17-45/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/rajkumar-17-45/Leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2358-number-of-ways-to-split-array](https://github.com/rajkumar-17-45/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/rajkumar-17-45/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Queue
 |  |
