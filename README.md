@@ -21,6 +21,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0392-is-subsequence](https://github.com/rajkumar-17-45/Leetcode/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/rajkumar-17-45/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/rajkumar-17-45/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/rajkumar-17-45/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/rajkumar-17-45/Leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/rajkumar-17-45/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/rajkumar-17-45/Leetcode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
@@ -72,6 +73,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0076-minimum-window-substring](https://github.com/rajkumar-17-45/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0202-happy-number](https://github.com/rajkumar-17-45/Leetcode/tree/master/0202-happy-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/rajkumar-17-45/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/rajkumar-17-45/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rajkumar-17-45/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/rajkumar-17-45/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rajkumar-17-45/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -179,6 +181,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/rajkumar-17-45/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/rajkumar-17-45/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/rajkumar-17-45/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/rajkumar-17-45/Leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2358-number-of-ways-to-split-array](https://github.com/rajkumar-17-45/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/rajkumar-17-45/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -190,4 +193,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rajkumar-17-45/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/rajkumar-17-45/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 <!---LeetCode Topics End-->
