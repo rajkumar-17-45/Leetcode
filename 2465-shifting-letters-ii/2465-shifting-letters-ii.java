@@ -20,7 +20,7 @@ class Solution {
             }
         }
         int sum=0;
-        String res=new String();
+        StringBuilder res=new StringBuilder();
         for(int i=0;i<prefix.length;i++)
         {
             sum+=prefix[i];
@@ -30,9 +30,9 @@ class Solution {
         for(int i=0;i<s.length();i++)
         {
            char c=(char)(((s.charAt(i)+(prefix[i])%26-97+26)%26)+97);
-           res+=c;
+           res.append(c);
         }
        
-        return res;
+        return res.toString();
     }
 }
