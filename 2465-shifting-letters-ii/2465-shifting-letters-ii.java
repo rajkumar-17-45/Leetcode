@@ -32,7 +32,7 @@ class Solution {
            char c=(char)(((s.charAt(i)+(prefix[i])%26-97+26)%26)+97);
            res+=c;
         }
-        // System.out.println(Arrays.toString(prefix));
+       
         return res;
     }
 }
