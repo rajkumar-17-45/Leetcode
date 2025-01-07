@@ -18,6 +18,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0014-longest-common-prefix](https://github.com/rajkumar-17-45/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/rajkumar-17-45/Leetcode/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/rajkumar-17-45/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0299-bulls-and-cows](https://github.com/rajkumar-17-45/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0392-is-subsequence](https://github.com/rajkumar-17-45/Leetcode/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/rajkumar-17-45/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/rajkumar-17-45/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -76,6 +77,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0076-minimum-window-substring](https://github.com/rajkumar-17-45/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0202-happy-number](https://github.com/rajkumar-17-45/Leetcode/tree/master/0202-happy-number) |
+| [0299-bulls-and-cows](https://github.com/rajkumar-17-45/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0424-longest-repeating-character-replacement](https://github.com/rajkumar-17-45/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/rajkumar-17-45/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/rajkumar-17-45/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -204,4 +206,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/rajkumar-17-45/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+## Counting
+|  |
+| ------- |
+| [0299-bulls-and-cows](https://github.com/rajkumar-17-45/Leetcode/tree/master/0299-bulls-and-cows) |
 <!---LeetCode Topics End-->
