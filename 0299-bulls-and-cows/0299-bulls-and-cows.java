@@ -35,8 +35,7 @@ class Solution {
                 b+=val2;
             }
          }
-       String res=new String();
-       res+=a+"A"+b+"B";
-         return res;
+     
+         return a+"A"+b+"B";
     }
 }
