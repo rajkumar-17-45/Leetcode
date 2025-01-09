@@ -51,6 +51,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/rajkumar-17-45/Leetcode/tree/master/0066-plus-one) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rajkumar-17-45/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rajkumar-17-45/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0485-max-consecutive-ones](https://github.com/rajkumar-17-45/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -94,6 +95,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/rajkumar-17-45/Leetcode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/rajkumar-17-45/Leetcode/tree/master/0202-happy-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rajkumar-17-45/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Greedy
