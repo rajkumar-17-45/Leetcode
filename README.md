@@ -21,6 +21,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0299-bulls-and-cows](https://github.com/rajkumar-17-45/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0392-is-subsequence](https://github.com/rajkumar-17-45/Leetcode/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/rajkumar-17-45/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0952-word-subsets](https://github.com/rajkumar-17-45/Leetcode/tree/master/0952-word-subsets) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/rajkumar-17-45/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/rajkumar-17-45/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/rajkumar-17-45/Leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
@@ -58,6 +59,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0485-max-consecutive-ones](https://github.com/rajkumar-17-45/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/rajkumar-17-45/Leetcode/tree/master/0494-target-sum) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/rajkumar-17-45/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0952-word-subsets](https://github.com/rajkumar-17-45/Leetcode/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/rajkumar-17-45/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1046-max-consecutive-ones-iii](https://github.com/rajkumar-17-45/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1063-best-sightseeing-pair](https://github.com/rajkumar-17-45/Leetcode/tree/master/1063-best-sightseeing-pair) |
@@ -89,6 +91,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0202-happy-number](https://github.com/rajkumar-17-45/Leetcode/tree/master/0202-happy-number) |
 | [0299-bulls-and-cows](https://github.com/rajkumar-17-45/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0424-longest-repeating-character-replacement](https://github.com/rajkumar-17-45/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0952-word-subsets](https://github.com/rajkumar-17-45/Leetcode/tree/master/0952-word-subsets) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/rajkumar-17-45/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/rajkumar-17-45/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/rajkumar-17-45/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
