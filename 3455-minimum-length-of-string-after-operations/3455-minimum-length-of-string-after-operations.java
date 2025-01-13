@@ -8,7 +8,7 @@ class Solution {
         mp.put(c,1);
        }
        int res=0;
-       System.out.println(mp);
+    //    System.out.println(mp);
        for(char key:mp.keySet())
        res+=mp.get(key);
        return res;
