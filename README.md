@@ -60,6 +60,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0485-max-consecutive-ones](https://github.com/rajkumar-17-45/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/rajkumar-17-45/Leetcode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/rajkumar-17-45/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/rajkumar-17-45/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/rajkumar-17-45/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0952-word-subsets](https://github.com/rajkumar-17-45/Leetcode/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/rajkumar-17-45/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
@@ -140,6 +141,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0225-implement-stack-using-queues](https://github.com/rajkumar-17-45/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/rajkumar-17-45/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/rajkumar-17-45/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/rajkumar-17-45/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/rajkumar-17-45/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Design
 |  |
@@ -254,4 +256,5 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/rajkumar-17-45/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/rajkumar-17-45/Leetcode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
