@@ -26,7 +26,7 @@ class Solution {
      {
         sb.deleteCharAt(0);
      }
-     System.out.println(sb);
+    //  System.out.println(sb);
     // if(sb.length()==0)
     // return "0";
     if(sb.length()==0)
