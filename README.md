@@ -49,6 +49,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rajkumar-17-45/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/rajkumar-17-45/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0338-counting-bits](https://github.com/rajkumar-17-45/Leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/rajkumar-17-45/Leetcode/tree/master/0392-is-subsequence) |
 | [0494-target-sum](https://github.com/rajkumar-17-45/Leetcode/tree/master/0494-target-sum) |
 | [0943-sum-of-subarray-minimums](https://github.com/rajkumar-17-45/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
@@ -259,6 +260,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Bit Manipulation
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/rajkumar-17-45/Leetcode/tree/master/0338-counting-bits) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/rajkumar-17-45/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2509-minimize-xor](https://github.com/rajkumar-17-45/Leetcode/tree/master/2509-minimize-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/rajkumar-17-45/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
