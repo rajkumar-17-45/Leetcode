@@ -48,6 +48,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0392-is-subsequence](https://github.com/rajkumar-17-45/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/rajkumar-17-45/Leetcode/tree/master/0443-string-compression) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/rajkumar-17-45/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/rajkumar-17-45/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -93,6 +94,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2465-shifting-letters-ii](https://github.com/rajkumar-17-45/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/rajkumar-17-45/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rajkumar-17-45/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/rajkumar-17-45/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/rajkumar-17-45/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/rajkumar-17-45/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/rajkumar-17-45/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
@@ -271,6 +273,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0735-asteroid-collision](https://github.com/rajkumar-17-45/Leetcode/tree/master/0735-asteroid-collision) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rajkumar-17-45/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/rajkumar-17-45/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -319,6 +322,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rajkumar-17-45/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/rajkumar-17-45/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Shortest Path
 |  |
 | ------- |
