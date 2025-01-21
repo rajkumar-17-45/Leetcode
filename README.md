@@ -88,6 +88,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rajkumar-17-45/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/rajkumar-17-45/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rajkumar-17-45/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2145-grid-game](https://github.com/rajkumar-17-45/Leetcode/tree/master/2145-grid-game) |
 | [2227-sum-of-subarray-ranges](https://github.com/rajkumar-17-45/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/rajkumar-17-45/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/rajkumar-17-45/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
@@ -258,6 +259,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1537-maximum-score-after-splitting-a-string](https://github.com/rajkumar-17-45/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/rajkumar-17-45/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/rajkumar-17-45/Leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2145-grid-game](https://github.com/rajkumar-17-45/Leetcode/tree/master/2145-grid-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/rajkumar-17-45/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/rajkumar-17-45/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/rajkumar-17-45/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -295,6 +297,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [1242-matrix-block-sum](https://github.com/rajkumar-17-45/Leetcode/tree/master/1242-matrix-block-sum) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rajkumar-17-45/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2145-grid-game](https://github.com/rajkumar-17-45/Leetcode/tree/master/2145-grid-game) |
 | [3031-construct-product-matrix](https://github.com/rajkumar-17-45/Leetcode/tree/master/3031-construct-product-matrix) |
 ## String Matching
 |  |
