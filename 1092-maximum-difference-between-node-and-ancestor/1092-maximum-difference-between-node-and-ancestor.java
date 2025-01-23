@@ -22,7 +22,7 @@ class Solution {
         
        Pair left=ancestor(root.left);
        Pair right=ancestor(root.right);
-       System.out.println(root.val);
+    //    System.out.println(root.val);
        int a=left.i;
        int b=left.j;
        int c=right.i;
