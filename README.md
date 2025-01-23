@@ -84,6 +84,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1063-best-sightseeing-pair](https://github.com/rajkumar-17-45/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1242-matrix-block-sum](https://github.com/rajkumar-17-45/Leetcode/tree/master/1242-matrix-block-sum) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/rajkumar-17-45/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1428-jump-game-iii](https://github.com/rajkumar-17-45/Leetcode/tree/master/1428-jump-game-iii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rajkumar-17-45/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rajkumar-17-45/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/rajkumar-17-45/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -227,6 +228,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/rajkumar-17-45/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/rajkumar-17-45/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/rajkumar-17-45/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [1428-jump-game-iii](https://github.com/rajkumar-17-45/Leetcode/tree/master/1428-jump-game-iii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -235,6 +237,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0104-maximum-depth-of-binary-tree](https://github.com/rajkumar-17-45/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/rajkumar-17-45/Leetcode/tree/master/0112-path-sum) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/rajkumar-17-45/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [1428-jump-game-iii](https://github.com/rajkumar-17-45/Leetcode/tree/master/1428-jump-game-iii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rajkumar-17-45/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Binary Tree
 |  |
