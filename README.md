@@ -221,6 +221,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0543-diameter-of-binary-tree](https://github.com/rajkumar-17-45/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/rajkumar-17-45/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/rajkumar-17-45/Leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0832-binary-tree-pruning](https://github.com/rajkumar-17-45/Leetcode/tree/master/0832-binary-tree-pruning) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/rajkumar-17-45/Leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/rajkumar-17-45/Leetcode/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 ## Depth-First Search
@@ -236,6 +237,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0543-diameter-of-binary-tree](https://github.com/rajkumar-17-45/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/rajkumar-17-45/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/rajkumar-17-45/Leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0832-binary-tree-pruning](https://github.com/rajkumar-17-45/Leetcode/tree/master/0832-binary-tree-pruning) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/rajkumar-17-45/Leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1428-jump-game-iii](https://github.com/rajkumar-17-45/Leetcode/tree/master/1428-jump-game-iii) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/rajkumar-17-45/Leetcode/tree/master/1465-maximum-product-of-splitted-binary-tree) |
@@ -264,6 +266,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0543-diameter-of-binary-tree](https://github.com/rajkumar-17-45/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/rajkumar-17-45/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/rajkumar-17-45/Leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0832-binary-tree-pruning](https://github.com/rajkumar-17-45/Leetcode/tree/master/0832-binary-tree-pruning) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/rajkumar-17-45/Leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/rajkumar-17-45/Leetcode/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 ## Binary Search Tree
