@@ -19,6 +19,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0014-longest-common-prefix](https://github.com/rajkumar-17-45/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/rajkumar-17-45/Leetcode/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/rajkumar-17-45/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0257-binary-tree-paths](https://github.com/rajkumar-17-45/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0299-bulls-and-cows](https://github.com/rajkumar-17-45/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0392-is-subsequence](https://github.com/rajkumar-17-45/Leetcode/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/rajkumar-17-45/Leetcode/tree/master/0402-remove-k-digits) |
@@ -206,6 +207,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Backtracking
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/rajkumar-17-45/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/rajkumar-17-45/Leetcode/tree/master/0494-target-sum) |
 ## Tree
 |  |
@@ -218,6 +220,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0124-binary-tree-maximum-path-sum](https://github.com/rajkumar-17-45/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/rajkumar-17-45/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/rajkumar-17-45/Leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0257-binary-tree-paths](https://github.com/rajkumar-17-45/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/rajkumar-17-45/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/rajkumar-17-45/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/rajkumar-17-45/Leetcode/tree/master/0617-merge-two-binary-trees) |
@@ -235,6 +238,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/rajkumar-17-45/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/rajkumar-17-45/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/rajkumar-17-45/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0257-binary-tree-paths](https://github.com/rajkumar-17-45/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/rajkumar-17-45/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/rajkumar-17-45/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/rajkumar-17-45/Leetcode/tree/master/0617-merge-two-binary-trees) |
@@ -265,6 +269,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0124-binary-tree-maximum-path-sum](https://github.com/rajkumar-17-45/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/rajkumar-17-45/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/rajkumar-17-45/Leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0257-binary-tree-paths](https://github.com/rajkumar-17-45/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/rajkumar-17-45/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/rajkumar-17-45/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/rajkumar-17-45/Leetcode/tree/master/0617-merge-two-binary-trees) |
