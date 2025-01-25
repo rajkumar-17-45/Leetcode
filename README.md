@@ -104,6 +104,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2792-neighboring-bitwise-xor](https://github.com/rajkumar-17-45/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/rajkumar-17-45/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3031-construct-product-matrix](https://github.com/rajkumar-17-45/Leetcode/tree/master/3031-construct-product-matrix) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rajkumar-17-45/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rajkumar-17-45/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Binary Search
 |  |
@@ -156,6 +157,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1354-find-players-with-zero-or-one-losses](https://github.com/rajkumar-17-45/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/rajkumar-17-45/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/rajkumar-17-45/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rajkumar-17-45/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Sliding Window
 |  |
 | ------- |
@@ -373,4 +375,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/rajkumar-17-45/Leetcode/tree/master/0572-subtree-of-another-tree) |
+## Union Find
+|  |
+| ------- |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rajkumar-17-45/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
