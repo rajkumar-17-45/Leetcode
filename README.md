@@ -254,6 +254,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1428-jump-game-iii](https://github.com/rajkumar-17-45/Leetcode/tree/master/1428-jump-game-iii) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/rajkumar-17-45/Leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/rajkumar-17-45/Leetcode/tree/master/1465-maximum-product-of-splitted-binary-tree) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/rajkumar-17-45/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -370,6 +371,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [1275-validate-binary-tree-nodes](https://github.com/rajkumar-17-45/Leetcode/tree/master/1275-validate-binary-tree-nodes) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rajkumar-17-45/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/rajkumar-17-45/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -393,4 +395,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [1275-validate-binary-tree-nodes](https://github.com/rajkumar-17-45/Leetcode/tree/master/1275-validate-binary-tree-nodes) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rajkumar-17-45/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+## Topological Sort
+|  |
+| ------- |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/rajkumar-17-45/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 <!---LeetCode Topics End-->
