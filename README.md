@@ -227,6 +227,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0543-diameter-of-binary-tree](https://github.com/rajkumar-17-45/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/rajkumar-17-45/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/rajkumar-17-45/Leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0655-print-binary-tree](https://github.com/rajkumar-17-45/Leetcode/tree/master/0655-print-binary-tree) |
 | [0832-binary-tree-pruning](https://github.com/rajkumar-17-45/Leetcode/tree/master/0832-binary-tree-pruning) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/rajkumar-17-45/Leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/rajkumar-17-45/Leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
@@ -245,6 +246,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0543-diameter-of-binary-tree](https://github.com/rajkumar-17-45/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/rajkumar-17-45/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/rajkumar-17-45/Leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0655-print-binary-tree](https://github.com/rajkumar-17-45/Leetcode/tree/master/0655-print-binary-tree) |
 | [0832-binary-tree-pruning](https://github.com/rajkumar-17-45/Leetcode/tree/master/0832-binary-tree-pruning) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/rajkumar-17-45/Leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1428-jump-game-iii](https://github.com/rajkumar-17-45/Leetcode/tree/master/1428-jump-game-iii) |
@@ -260,6 +262,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/rajkumar-17-45/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/rajkumar-17-45/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0617-merge-two-binary-trees](https://github.com/rajkumar-17-45/Leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0655-print-binary-tree](https://github.com/rajkumar-17-45/Leetcode/tree/master/0655-print-binary-tree) |
 | [1428-jump-game-iii](https://github.com/rajkumar-17-45/Leetcode/tree/master/1428-jump-game-iii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rajkumar-17-45/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Binary Tree
@@ -277,6 +280,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0543-diameter-of-binary-tree](https://github.com/rajkumar-17-45/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/rajkumar-17-45/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/rajkumar-17-45/Leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0655-print-binary-tree](https://github.com/rajkumar-17-45/Leetcode/tree/master/0655-print-binary-tree) |
 | [0832-binary-tree-pruning](https://github.com/rajkumar-17-45/Leetcode/tree/master/0832-binary-tree-pruning) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/rajkumar-17-45/Leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/rajkumar-17-45/Leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
