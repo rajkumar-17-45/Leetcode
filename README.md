@@ -127,6 +127,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0496-next-greater-element-i](https://github.com/rajkumar-17-45/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0952-word-subsets](https://github.com/rajkumar-17-45/Leetcode/tree/master/0952-word-subsets) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/rajkumar-17-45/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/rajkumar-17-45/Leetcode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/rajkumar-17-45/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/rajkumar-17-45/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/rajkumar-17-45/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
@@ -237,6 +238,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1450-delete-leaves-with-a-given-value](https://github.com/rajkumar-17-45/Leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/rajkumar-17-45/Leetcode/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/rajkumar-17-45/Leetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
+| [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/rajkumar-17-45/Leetcode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/rajkumar-17-45/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 ## Depth-First Search
 |  |
@@ -260,6 +262,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1450-delete-leaves-with-a-given-value](https://github.com/rajkumar-17-45/Leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/rajkumar-17-45/Leetcode/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/rajkumar-17-45/Leetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
+| [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/rajkumar-17-45/Leetcode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/rajkumar-17-45/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/rajkumar-17-45/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 ## Breadth-First Search
@@ -278,6 +281,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1428-jump-game-iii](https://github.com/rajkumar-17-45/Leetcode/tree/master/1428-jump-game-iii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rajkumar-17-45/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/rajkumar-17-45/Leetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
+| [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/rajkumar-17-45/Leetcode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/rajkumar-17-45/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 ## Binary Tree
 |  |
@@ -351,6 +355,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0299-bulls-and-cows](https://github.com/rajkumar-17-45/Leetcode/tree/master/0299-bulls-and-cows) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/rajkumar-17-45/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/rajkumar-17-45/Leetcode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/rajkumar-17-45/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Matrix
 |  |
