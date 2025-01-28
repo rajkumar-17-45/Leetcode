@@ -236,6 +236,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1275-validate-binary-tree-nodes](https://github.com/rajkumar-17-45/Leetcode/tree/master/1275-validate-binary-tree-nodes) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/rajkumar-17-45/Leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/rajkumar-17-45/Leetcode/tree/master/1465-maximum-product-of-splitted-binary-tree) |
+| [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/rajkumar-17-45/Leetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/rajkumar-17-45/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 ## Depth-First Search
 |  |
@@ -258,6 +259,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1428-jump-game-iii](https://github.com/rajkumar-17-45/Leetcode/tree/master/1428-jump-game-iii) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/rajkumar-17-45/Leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/rajkumar-17-45/Leetcode/tree/master/1465-maximum-product-of-splitted-binary-tree) |
+| [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/rajkumar-17-45/Leetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/rajkumar-17-45/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/rajkumar-17-45/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 ## Breadth-First Search
@@ -275,6 +277,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1275-validate-binary-tree-nodes](https://github.com/rajkumar-17-45/Leetcode/tree/master/1275-validate-binary-tree-nodes) |
 | [1428-jump-game-iii](https://github.com/rajkumar-17-45/Leetcode/tree/master/1428-jump-game-iii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rajkumar-17-45/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/rajkumar-17-45/Leetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/rajkumar-17-45/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 ## Binary Tree
 |  |
@@ -298,6 +301,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1275-validate-binary-tree-nodes](https://github.com/rajkumar-17-45/Leetcode/tree/master/1275-validate-binary-tree-nodes) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/rajkumar-17-45/Leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/rajkumar-17-45/Leetcode/tree/master/1465-maximum-product-of-splitted-binary-tree) |
+| [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/rajkumar-17-45/Leetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -336,6 +340,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0231-power-of-two](https://github.com/rajkumar-17-45/Leetcode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/rajkumar-17-45/Leetcode/tree/master/0338-counting-bits) |
+| [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/rajkumar-17-45/Leetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/rajkumar-17-45/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2509-minimize-xor](https://github.com/rajkumar-17-45/Leetcode/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/rajkumar-17-45/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
