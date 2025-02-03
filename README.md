@@ -266,6 +266,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/rajkumar-17-45/Leetcode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/rajkumar-17-45/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/rajkumar-17-45/Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
+| [2439-longest-cycle-in-a-graph](https://github.com/rajkumar-17-45/Leetcode/tree/master/2439-longest-cycle-in-a-graph) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/rajkumar-17-45/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 ## Breadth-First Search
 |  |
@@ -393,6 +394,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rajkumar-17-45/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/rajkumar-17-45/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/rajkumar-17-45/Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
+| [2439-longest-cycle-in-a-graph](https://github.com/rajkumar-17-45/Leetcode/tree/master/2439-longest-cycle-in-a-graph) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/rajkumar-17-45/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 ## Heap (Priority Queue)
 |  |
@@ -422,4 +424,5 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/rajkumar-17-45/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2439-longest-cycle-in-a-graph](https://github.com/rajkumar-17-45/Leetcode/tree/master/2439-longest-cycle-in-a-graph) |
 <!---LeetCode Topics End-->
