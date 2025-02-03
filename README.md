@@ -108,6 +108,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3031-construct-product-matrix](https://github.com/rajkumar-17-45/Leetcode/tree/master/3031-construct-product-matrix) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rajkumar-17-45/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rajkumar-17-45/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/rajkumar-17-45/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Binary Search
 |  |
 | ------- |
