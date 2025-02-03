@@ -32,8 +32,6 @@ class Solution {
         }
         // min=Math.min(min,Math.max(dist[i],dist2[i]));
        }
-        System.out.println(Arrays.toString(dist));
-         System.out.println(Arrays.toString(dist2));
        return res; 
     }
     void dis(int dis[],int val,  List<List<Integer>> l)
