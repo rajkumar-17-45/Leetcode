@@ -91,6 +91,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rajkumar-17-45/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/rajkumar-17-45/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/rajkumar-17-45/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/rajkumar-17-45/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rajkumar-17-45/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2145-grid-game](https://github.com/rajkumar-17-45/Leetcode/tree/master/2145-grid-game) |
 | [2227-sum-of-subarray-ranges](https://github.com/rajkumar-17-45/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
