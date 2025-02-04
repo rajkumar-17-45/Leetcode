@@ -20,6 +20,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0020-valid-parentheses](https://github.com/rajkumar-17-45/Leetcode/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/rajkumar-17-45/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0257-binary-tree-paths](https://github.com/rajkumar-17-45/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/rajkumar-17-45/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0299-bulls-and-cows](https://github.com/rajkumar-17-45/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0392-is-subsequence](https://github.com/rajkumar-17-45/Leetcode/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/rajkumar-17-45/Leetcode/tree/master/0402-remove-k-digits) |
@@ -203,6 +204,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0173-binary-search-tree-iterator](https://github.com/rajkumar-17-45/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/rajkumar-17-45/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/rajkumar-17-45/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/rajkumar-17-45/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -233,6 +235,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0199-binary-tree-right-side-view](https://github.com/rajkumar-17-45/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rajkumar-17-45/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/rajkumar-17-45/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/rajkumar-17-45/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/rajkumar-17-45/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/rajkumar-17-45/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/rajkumar-17-45/Leetcode/tree/master/0617-merge-two-binary-trees) |
@@ -260,6 +263,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0199-binary-tree-right-side-view](https://github.com/rajkumar-17-45/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rajkumar-17-45/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/rajkumar-17-45/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/rajkumar-17-45/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/rajkumar-17-45/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/rajkumar-17-45/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/rajkumar-17-45/Leetcode/tree/master/0617-merge-two-binary-trees) |
@@ -286,6 +290,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0112-path-sum](https://github.com/rajkumar-17-45/Leetcode/tree/master/0112-path-sum) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/rajkumar-17-45/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/rajkumar-17-45/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/rajkumar-17-45/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/rajkumar-17-45/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0617-merge-two-binary-trees](https://github.com/rajkumar-17-45/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0655-print-binary-tree](https://github.com/rajkumar-17-45/Leetcode/tree/master/0655-print-binary-tree) |
@@ -311,6 +316,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0199-binary-tree-right-side-view](https://github.com/rajkumar-17-45/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rajkumar-17-45/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/rajkumar-17-45/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/rajkumar-17-45/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/rajkumar-17-45/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/rajkumar-17-45/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/rajkumar-17-45/Leetcode/tree/master/0617-merge-two-binary-trees) |
