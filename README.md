@@ -231,6 +231,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0129-sum-root-to-leaf-numbers](https://github.com/rajkumar-17-45/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/rajkumar-17-45/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/rajkumar-17-45/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rajkumar-17-45/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/rajkumar-17-45/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/rajkumar-17-45/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/rajkumar-17-45/Leetcode/tree/master/0572-subtree-of-another-tree) |
@@ -257,6 +258,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0124-binary-tree-maximum-path-sum](https://github.com/rajkumar-17-45/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/rajkumar-17-45/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/rajkumar-17-45/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rajkumar-17-45/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/rajkumar-17-45/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/rajkumar-17-45/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/rajkumar-17-45/Leetcode/tree/master/0572-subtree-of-another-tree) |
@@ -307,6 +309,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0129-sum-root-to-leaf-numbers](https://github.com/rajkumar-17-45/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/rajkumar-17-45/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/rajkumar-17-45/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rajkumar-17-45/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/rajkumar-17-45/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/rajkumar-17-45/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/rajkumar-17-45/Leetcode/tree/master/0572-subtree-of-another-tree) |
@@ -324,6 +327,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/rajkumar-17-45/Leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rajkumar-17-45/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Iterator
 |  |
 | ------- |
