@@ -88,6 +88,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1242-matrix-block-sum](https://github.com/rajkumar-17-45/Leetcode/tree/master/1242-matrix-block-sum) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/rajkumar-17-45/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1364-tuple-with-same-product](https://github.com/rajkumar-17-45/Leetcode/tree/master/1364-tuple-with-same-product) |
+| [1380-number-of-closed-islands](https://github.com/rajkumar-17-45/Leetcode/tree/master/1380-number-of-closed-islands) |
 | [1428-jump-game-iii](https://github.com/rajkumar-17-45/Leetcode/tree/master/1428-jump-game-iii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rajkumar-17-45/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rajkumar-17-45/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -278,6 +279,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/rajkumar-17-45/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/rajkumar-17-45/Leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1275-validate-binary-tree-nodes](https://github.com/rajkumar-17-45/Leetcode/tree/master/1275-validate-binary-tree-nodes) |
+| [1380-number-of-closed-islands](https://github.com/rajkumar-17-45/Leetcode/tree/master/1380-number-of-closed-islands) |
 | [1428-jump-game-iii](https://github.com/rajkumar-17-45/Leetcode/tree/master/1428-jump-game-iii) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/rajkumar-17-45/Leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/rajkumar-17-45/Leetcode/tree/master/1465-maximum-product-of-splitted-binary-tree) |
@@ -303,6 +305,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0998-check-completeness-of-a-binary-tree](https://github.com/rajkumar-17-45/Leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/rajkumar-17-45/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1275-validate-binary-tree-nodes](https://github.com/rajkumar-17-45/Leetcode/tree/master/1275-validate-binary-tree-nodes) |
+| [1380-number-of-closed-islands](https://github.com/rajkumar-17-45/Leetcode/tree/master/1380-number-of-closed-islands) |
 | [1428-jump-game-iii](https://github.com/rajkumar-17-45/Leetcode/tree/master/1428-jump-game-iii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rajkumar-17-45/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/rajkumar-17-45/Leetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
@@ -394,6 +397,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/rajkumar-17-45/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [1242-matrix-block-sum](https://github.com/rajkumar-17-45/Leetcode/tree/master/1242-matrix-block-sum) |
+| [1380-number-of-closed-islands](https://github.com/rajkumar-17-45/Leetcode/tree/master/1380-number-of-closed-islands) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rajkumar-17-45/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2145-grid-game](https://github.com/rajkumar-17-45/Leetcode/tree/master/2145-grid-game) |
 | [3031-construct-product-matrix](https://github.com/rajkumar-17-45/Leetcode/tree/master/3031-construct-product-matrix) |
@@ -447,6 +451,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [1275-validate-binary-tree-nodes](https://github.com/rajkumar-17-45/Leetcode/tree/master/1275-validate-binary-tree-nodes) |
+| [1380-number-of-closed-islands](https://github.com/rajkumar-17-45/Leetcode/tree/master/1380-number-of-closed-islands) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/rajkumar-17-45/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rajkumar-17-45/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Topological Sort
