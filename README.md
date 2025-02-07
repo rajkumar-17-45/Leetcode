@@ -93,6 +93,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rajkumar-17-45/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rajkumar-17-45/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/rajkumar-17-45/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1706-min-cost-to-connect-all-points](https://github.com/rajkumar-17-45/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/rajkumar-17-45/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/rajkumar-17-45/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rajkumar-17-45/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -425,6 +426,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [1275-validate-binary-tree-nodes](https://github.com/rajkumar-17-45/Leetcode/tree/master/1275-validate-binary-tree-nodes) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rajkumar-17-45/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1706-min-cost-to-connect-all-points](https://github.com/rajkumar-17-45/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/rajkumar-17-45/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/rajkumar-17-45/Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2439-longest-cycle-in-a-graph](https://github.com/rajkumar-17-45/Leetcode/tree/master/2439-longest-cycle-in-a-graph) |
@@ -452,6 +454,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [1275-validate-binary-tree-nodes](https://github.com/rajkumar-17-45/Leetcode/tree/master/1275-validate-binary-tree-nodes) |
 | [1380-number-of-closed-islands](https://github.com/rajkumar-17-45/Leetcode/tree/master/1380-number-of-closed-islands) |
+| [1706-min-cost-to-connect-all-points](https://github.com/rajkumar-17-45/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/rajkumar-17-45/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rajkumar-17-45/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Topological Sort
@@ -459,4 +462,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/rajkumar-17-45/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2439-longest-cycle-in-a-graph](https://github.com/rajkumar-17-45/Leetcode/tree/master/2439-longest-cycle-in-a-graph) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/rajkumar-17-45/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
