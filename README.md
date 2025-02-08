@@ -85,6 +85,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1025-minimum-cost-for-tickets](https://github.com/rajkumar-17-45/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1046-max-consecutive-ones-iii](https://github.com/rajkumar-17-45/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1063-best-sightseeing-pair](https://github.com/rajkumar-17-45/Leetcode/tree/master/1063-best-sightseeing-pair) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/rajkumar-17-45/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1242-matrix-block-sum](https://github.com/rajkumar-17-45/Leetcode/tree/master/1242-matrix-block-sum) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/rajkumar-17-45/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1364-tuple-with-same-product](https://github.com/rajkumar-17-45/Leetcode/tree/master/1364-tuple-with-same-product) |
@@ -305,6 +306,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0655-print-binary-tree](https://github.com/rajkumar-17-45/Leetcode/tree/master/0655-print-binary-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/rajkumar-17-45/Leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/rajkumar-17-45/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/rajkumar-17-45/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1275-validate-binary-tree-nodes](https://github.com/rajkumar-17-45/Leetcode/tree/master/1275-validate-binary-tree-nodes) |
 | [1380-number-of-closed-islands](https://github.com/rajkumar-17-45/Leetcode/tree/master/1380-number-of-closed-islands) |
 | [1428-jump-game-iii](https://github.com/rajkumar-17-45/Leetcode/tree/master/1428-jump-game-iii) |
@@ -397,6 +399,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/rajkumar-17-45/Leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/rajkumar-17-45/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1242-matrix-block-sum](https://github.com/rajkumar-17-45/Leetcode/tree/master/1242-matrix-block-sum) |
 | [1380-number-of-closed-islands](https://github.com/rajkumar-17-45/Leetcode/tree/master/1380-number-of-closed-islands) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rajkumar-17-45/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
