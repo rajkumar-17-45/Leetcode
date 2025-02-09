@@ -98,6 +98,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1798-max-number-of-k-sum-pairs](https://github.com/rajkumar-17-45/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/rajkumar-17-45/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rajkumar-17-45/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/rajkumar-17-45/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2145-grid-game](https://github.com/rajkumar-17-45/Leetcode/tree/master/2145-grid-game) |
 | [2227-sum-of-subarray-ranges](https://github.com/rajkumar-17-45/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/rajkumar-17-45/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -313,6 +314,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rajkumar-17-45/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/rajkumar-17-45/Leetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/rajkumar-17-45/Leetcode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/rajkumar-17-45/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/rajkumar-17-45/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 ## Binary Tree
 |  |
@@ -403,6 +405,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1242-matrix-block-sum](https://github.com/rajkumar-17-45/Leetcode/tree/master/1242-matrix-block-sum) |
 | [1380-number-of-closed-islands](https://github.com/rajkumar-17-45/Leetcode/tree/master/1380-number-of-closed-islands) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rajkumar-17-45/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/rajkumar-17-45/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2145-grid-game](https://github.com/rajkumar-17-45/Leetcode/tree/master/2145-grid-game) |
 | [3031-construct-product-matrix](https://github.com/rajkumar-17-45/Leetcode/tree/master/3031-construct-product-matrix) |
 ## String Matching
