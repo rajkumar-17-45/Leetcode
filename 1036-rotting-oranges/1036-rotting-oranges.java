@@ -31,10 +31,7 @@ class Solution {
         }
        }
        
-       if(queue.isEmpty() && !bs)
-       return -1;
-       if(queue.isEmpty() && bs)
-       return 0;
+      
         int result[][]=new int[m][n];
         int l=0;
         int row[]={0,1,0,-1};
