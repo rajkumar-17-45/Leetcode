@@ -11,10 +11,10 @@ class Triple
     }
 }
 class Solution {
-    public int nearestExit(char[][] maze, int[] enterance) {
+    public int nearestExit(char[][] maze, int[] e) {
 
-       PriorityQueue<Triple> queue=new PriorityQueue<>((a,b)->a.d-b.d);
-       queue.add(new Triple(0,enterance[0],enterance[1]));
+       Queue<Triple> queue=new LinkedList<>();
+       queue.add(new Triple(0,e[0],e[1]));
        int row[]={0,-1,1,0};
        int col[]={1,0,0,-1};
        int m=maze.length;
@@ -24,7 +24,8 @@ class Solution {
        {
         Arrays.fill(x,Integer.MAX_VALUE);
        }
-       dist[enterance[0]][enterance[1]]=0;
+       dist[e[0]][e[1]]=0;
+        int max=Integer.MAX_VALUE;
         while(!queue.isEmpty())
         {
              Triple t=queue.poll();
@@ -39,41 +40,19 @@ class Solution {
                 {
                     if(dist[i][j]+1<dist[r][c])
                     {
+             if((r==m-1) || r==0 || c==0 || c==n-1)
+                        max=Math.min(max,dist[i][j]+1);
                     dist[r][c]=dist[i][j]+1;
                     queue.add(new Triple(dist[i][j]+1,r,c));
                     }
                 }
              }
         }
-        int max=Integer.MAX_VALUE;
-        for(int i=0;i<m;i++)
-        {
-          if((i!=enterance[0] || enterance[1]!=0) && maze[i][0]=='.')
-          {
-          max=Math.min(dist[i][0],max);
-        //    System.out.println(dist[i][0]+" "+i+" 0");
-          }
-        //   System.out.println(maze[i][0]);
-          if((i!=enterance[0] || enterance[1]!=n-1) && maze[i][n-1]=='.')
-          {
-          max=Math.min(dist[i][n-1],max);
-        // System.out.println(maze[i][n-1]);
-        //    System.out.println(dist[i][n-1]+" "+i+" "+(n-1));
-          }
-        }
-         for(int j=0;j<n;j++)
-        {
-          if((enterance[0]!=0 || enterance[1]!=j) && maze[0][j]=='.')
-          {
-          max=Math.min(dist[0][j],max);
-            //   System.out.println(dist[0][j]+" 0"+" "+j);
-          }
-        // System.out.println(maze[m-1][j]);
-          if((enterance[0]!=m-1 || enterance[1]!=j) && maze[m-1][j]=='.')
-          {
-          max=Math.min(dist[m-1][j],max);
-          }
-        }
+    //    for(int i=0;i<m;i++)
+    //    {
+    //     System.out.println(Arrays.toString(dist[i]));
+    //    }
+        
         if(max==Integer.MAX_VALUE)
         return -1;
         return max;
