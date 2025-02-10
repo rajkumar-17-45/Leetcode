@@ -68,10 +68,7 @@ class Solution {
         }
        } 
         Collections.sort(list,(a,b)-> a.weight-b.weight);
-        for(Triple t:list)
-        {
-            // System.out.println(t.weight+" "+t.val1+" "+t.val2);
-        }
+      
         Disjoint ds=new Disjoint(x.length+1);
         int count=0;
         int c=0; 
